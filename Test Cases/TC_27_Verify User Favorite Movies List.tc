@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_27_Verify User Favorite Movies List</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1152ae6-8561-4df7-93de-905f57887fba</testCaseGuid>
+</TestCaseEntity>

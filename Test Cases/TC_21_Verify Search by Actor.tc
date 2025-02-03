@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_21_Verify Search by Actor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52a90acc-08ef-426f-9889-51a1db3023b7</testCaseGuid>
+</TestCaseEntity>

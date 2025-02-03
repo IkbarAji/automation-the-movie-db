@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_28_Verify User Profile Update</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b923d756-db37-4ce1-ba33-c760c1af18f0</testCaseGuid>
+</TestCaseEntity>

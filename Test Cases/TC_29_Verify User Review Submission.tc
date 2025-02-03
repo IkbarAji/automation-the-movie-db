@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_29_Verify User Review Submission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83cdd96d-c9fa-4aad-b934-f17637cd6998</testCaseGuid>
+</TestCaseEntity>

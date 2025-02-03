@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_30_Verify Watchlist Functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df6086b3-94fc-4ced-ad23-1d7b75ac81dd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20_Verify Remove from Favorites</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61858a73-bc39-40ae-8727-7602beffc1b0</testCaseGuid>
+</TestCaseEntity>

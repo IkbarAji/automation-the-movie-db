@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15_Verify Movie Trailer Playback</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed629307-41c2-4026-a1a5-5aaa4f395d45</testCaseGuid>
+</TestCaseEntity>

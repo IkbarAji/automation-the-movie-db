@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14_Verify Movie Recommendation Algorithm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6a1d107-b694-468e-bd60-c687df7b45b8</testCaseGuid>
+</TestCaseEntity>

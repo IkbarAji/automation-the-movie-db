@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16_Verify Multi-Language Support</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>549174ed-e2f0-409f-89c3-b066670033b6</testCaseGuid>
+</TestCaseEntity>

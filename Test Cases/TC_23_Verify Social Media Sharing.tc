@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_23_Verify Social Media Sharing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>847fbb9b-afac-4c55-9720-b41ff7dddfed</testCaseGuid>
+</TestCaseEntity>

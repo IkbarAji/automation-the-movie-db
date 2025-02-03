@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_19_Verify Related Movies Display</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57a20329-5a90-4d70-8486-d4f0e91d5f09</testCaseGuid>
+</TestCaseEntity>

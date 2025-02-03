@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12_Verify Invalid Movie Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b484e0f-5152-4a90-806c-e2027cb0ac8e</testCaseGuid>
+</TestCaseEntity>
